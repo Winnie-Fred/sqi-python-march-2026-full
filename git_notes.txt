@@ -1,0 +1,4 @@
+1. Start locally and then push to the remote repo
+a. Commit before pulling (--allow-unrelated-histories)
+b. Pull before committing
+2. Start on the remote repo and pull locally
